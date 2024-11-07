@@ -13,7 +13,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️DASTAGEER"
+      "value": "27767494368"
       },
      "MODE": {
       "description": "mode public or private",
@@ -48,12 +48,12 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "ᏢᎡᏆΝХᏟᎬ-ᎷᎠ-ᏔᏴ"
+      "value": "𝕬𝖛𝖊𝕭𝖔𝖙 𝕸𝕯-ᏔᏴ"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "𝕬𝖛𝖊𝕭𝖔𝖙 𝕸𝕯🎗️❣️"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -63,7 +63,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *⛲ᴘʀɪɴᴄᴇ-ᴍᴅ⛲* --------📥"
+      "value": "📥-------- *⛲𝕬𝖛𝖊𝕭𝖔𝖙 𝕸𝕯⛲* --------📥"
       },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
@@ -88,7 +88,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~U0JTjYKI#z11pJddNrC-kV5qRaww_XKp9kSOMZsog5DmUlyHxmLU"
     }
     
    
